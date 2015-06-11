@@ -1,0 +1,13 @@
+{
+  "name": "caret",
+  "description": "Listen to and manipulate the text caret.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "emitter": "npmcomponent/component-emitter",
+    "event": "npmcomponent/component-event"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js"
+}
